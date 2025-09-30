@@ -38,9 +38,9 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: S.Yogesh
+### Name: BHARANI KUMAR J
 
-### Register Number: 21224230311
+### Register Number: 212224240024
 
 ```python
 
